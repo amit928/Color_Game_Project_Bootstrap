@@ -1,0 +1,22 @@
+.container{
+
+    height: 100%;
+    width: 100%;
+}
+#header{
+    background: red;
+}
+#colorButtons .btn{
+    background: red;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+}
+
+#play{
+    color: black;
+    border-color: red;
+}
+#errorMsg{
+    position: relative;
+}
